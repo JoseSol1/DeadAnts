@@ -1,0 +1,20 @@
+# Dead Ants Proy Test Plan
+
+## Introduction
+
+This document contains the test plan for Dead Ants Proy, including positive and negative test scenarios.
+
+## Positive Test Scenarios
+
+1. **Null Input**: Test the behavior when null input is provided.
+2. **No Ants**: Test the behavior when there are no ants in the input.
+3. **Only Alive Ants**: Test the behavior when only alive ants are present in the input.
+4. **With Alive Ants**: Test the behavior when both dead and alive ants are present in the input.
+5. **With Alive Ants and Dots and Spaces**: Test the behavior when both dead and alive ants, along with a lot of characters, are present in the input.
+
+## Negative Test Scenarios
+
+1. **Empty Input**: Test the behavior when an empty string is provided as input.
+2. **Invalid Ant Representation**: Test the behavior when the input contains invalid ant representations other than "ant".
+3. **Large Input Size**: Test the behavior with a large input size to check for performance and memory usage.
+4. **Special Characters in Input**: Test the behavior when the input contains special characters other than "a", "n", and "t".
