@@ -1,0 +1,13 @@
+Introduction
+Welcome to the Dead Ants Proy user manual. This manual will guide you through the installation process and explain how to use Dead Ants Proy in your C# projects.
+
+1. Installation
+To use Dead Ants Proy, follow these steps:
+
+Clone the repository to your local machine:
+
+Open the solution file (DeadAntsProy.sln) in Visual Studio.
+
+2. Using Dead Ants Proy
+
+Run the solution DeadAntes to use the main application, or View->Test Explorer to run the test cases.
