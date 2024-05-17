@@ -3,6 +3,21 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Ignore binary files
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build directories
+bin/
+obj/
+
 # User-specific files
 *.rsuser
 *.suo
